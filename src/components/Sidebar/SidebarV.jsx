@@ -2,11 +2,15 @@ import './Sidebar.css';
 import React, { useState } from "react";
 import {
   FaHome,
+  FaUser,
   FaBox,
   FaClipboardList,
   FaReceipt,
   FaUsers,
+  FaTruck,
+  FaCreditCard,
   FaChevronDown,
+  FaFolderOpen,
 } from "react-icons/fa";
 import "bootstrap/dist/css/bootstrap.min.css";
 
