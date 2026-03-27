@@ -145,7 +145,7 @@ export default function SidebarVendedor() {
                   {open === "productos" && (
                     <ul className="nav flex-column ms-4 mt-2">
                       <li>
-                        <Link to="/admin/productos" className="nav-link text-white">
+                        <Link to="/vendedor/productos" className="nav-link text-white">
                           Productos
                         </Link>
                       </li>
@@ -176,7 +176,7 @@ export default function SidebarVendedor() {
                         <ul className="nav flex-column ms-4 mt-2">
                          
                           <li>
-                             <Link to="/admin/proveedores" className="nav-link text-white">
+                             <Link to="/vendedor/proveedores" className="nav-link text-white">
                         Ver proveedores
                     </Link>
                           </li>
@@ -204,7 +204,7 @@ export default function SidebarVendedor() {
                   {open === "categorias" && (
                     <ul className="nav flex-column ms-4 mt-2">
                       <li>
-                        <Link to="/admin/categorias" className="nav-link text-white">
+                        <Link to="/vendedor/categorias" className="nav-link text-white">
                           Ver Categorías
                         </Link>
                       </li>

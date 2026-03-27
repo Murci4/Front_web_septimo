@@ -106,7 +106,8 @@ function App() {
         >
           <Route index element={<DashboardV />} />
           <Route path="dashboard" element={<DashboardV />} /> 
-
+          
+          <Route path="crear-pedido" element={<CrearPedido />} />
           <Route path="listar-pedido" element={<ListarPedido />} />
           <Route path="detalle-pedido/:codigoPedido" element={<ListaDetallePedido />} />
           <Route path="editar-pedido/:codigoPedido" element={<EditarPedido />} />
