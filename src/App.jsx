@@ -17,7 +17,6 @@ import EditarUsuario from './components/pages/usuarios/EditarUsuario.jsx';
 import AgregarUsuario from './components/pages/usuarios/AgregarUsuario.jsx';  
 import Login from "./components/pages/Login.jsx";
 import Perfil from "./components/pages/Perfil.jsx";
-//import ReporteProductos from './components/pages/reportes/ReporteProductos.jsx';
 import ListarProductos from "./components/productos/ListarProductos.jsx";
 import ListarCategorias from "./components/categoria/ListarCategoria.jsx";
 import ListarSubCategorias from "./components/subcategoria/ListarSubCategorias.jsx";

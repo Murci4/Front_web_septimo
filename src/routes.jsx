@@ -1,6 +1,6 @@
 import Dashboard from "./components/pages/Dashboard.jsx";
 import CrearPedido from "./components/pages/pedidos/CrearPedido.jsx";
-import ListarPedido from "./components/pages/pedidos/listarPedido.jsx";
+import ListarPedido from "./components/pages/pedidos/ListarPedido.jsx";
 
 const routes = [
   {
