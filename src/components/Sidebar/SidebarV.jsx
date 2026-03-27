@@ -210,11 +210,7 @@ export default function SidebarVendedor() {
                       </li>
                     </ul>
                   )}
-                </li>
-
-
-        
-        
+                </li> 
       </ul>
     </div>
   );
